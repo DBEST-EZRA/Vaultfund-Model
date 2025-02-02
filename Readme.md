@@ -17,6 +17,5 @@ This repository contains a machine learning model designed to detect fraud in gr
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection-group-savings.git
-cd fraud-detection-group-savings
+git clone https://github.com/DBEST-EZRA/Vaultfund-Model.git
 pip install -r requirements.txt

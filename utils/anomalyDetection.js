@@ -32,7 +32,7 @@ exports.detectAnomalies = async (transactionId) => {
             transaction.merchantCategory,
             transaction.deviceType,
             transaction.location,
-            transaction.time
+            transaction.time //STILL NEEDS WORK , ensuring these , match training features
         ];  
 
         let riskScore;
